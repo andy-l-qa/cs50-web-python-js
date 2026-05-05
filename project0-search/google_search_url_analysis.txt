@@ -1,0 +1,37 @@
+Google Search:
+
+https://www.google.com/search
+?q=Harvard
+&sca_esv=b7b28de9b2affd5c
+&sxsrf=ANbL-n5Ak_K_IsJ3-ms5LRo4rNcVaL_Plg%3A1777993396049
+&source=hp
+&ei=swb6aeS0PJCZwbkPpduBiQQ&iflsig=AFdpzrgAAAAAafoUxEqVgIeb1oIe1CiFDL3y4HWOib3c
+&ved=0ahUKEwik2p_GtaKUAxWQTDABHaVtIEEQ4dUDCDI
+&oq=Harvard
+&gs_lp=Egdnd3Mtd2l6IgdIYXJ2YXJkMggQLhixAxiABDIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyBRAuGIAEMggQLhiABBixAzIIEC4YgAQYsQMyCBAuGIAEGLEDMggQABiABBixA0jOW1AAWNQMcAB4AJABAJgBV6ABkwSqAQE3uAEMyAEA-AEBmAIHoALJBMICChAjGIAEGIoFGCfCAhAQIxjwBRjJAhiABBiKBRgnwgIREC4YgAQYsQMYgwEYxwEY0QPCAg4QLhiABBiKBRixAxiDAcICDhAuGIAEGLEDGMcBGNEDwgIEEAAYA8ICCxAAGIAEGLEDGIMBwgIOEAAYgAQYigUYsQMYgwHCAgUQABiABMICDhAuGIAEGMcBGK8BGI4FwgILEC4YrwEYxwEYgATCAgsQLhiABBjHARivAZgDAJIHATegB-50sgcBN7gHyQTCBwcwLjEuNC4yyAcpgAgB
+&sclient=gws-wiz
+
+https://www.google.com/search?q=Harvard
+
+
+Google Search (Images):
+
+https://www.google.com/search
+?sca_esv=b7b28de9b2affd5c
+&sxsrf=ANbL-n4ivn4q5ONeptA6LI4dHGJHWZJQqQ:1777995456907
+&udm=2
+&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp0UJuhqwKhR0QUhF54-6jIYFfWbU_Clyew-1Wh7zkL7ESidkgRbpABIFmqqaUIbKPFqTbaP15Okg4dDIsZY3ws8qBo3qWzuX0P7nA5ySv5Z6ckV23-oIfl4GFQw5VFeOABdNtLnU-e5a5muR3ZRgyMfiOFuGhB9ZyUM-Fd-Xnqn_LpgEmNK3aFZGWmfmV9_AzJ8a3ug
+&q=harvard
+&sa=X
+&ved=2ahUKEwjz6_ucvaKUAxWeNNAFHcgBBJ8QtKgLegQIExAB
+&biw=1920
+&bih=493
+&dpr=1
+
+The important parameter here is: udm
+
+udm=2 → Images - stands for image search mode and should be included in our url by default
+udm=14 → normal web results
+udm=12 → news
+
+https://submit.cs50.io/courses/30
