@@ -41,6 +41,13 @@ h1 {
   align-items: center;
 }
 
+.buttons {
+  display: flex;
+  gap: 10px;
+  /* margin-top: 20px; */
+  justify-content: center;
+}
+
 .search-form input[type="text"] {
   width: 400px;
   padding: 12px 20px;
